@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/Person.cpp
+stdexcept
+-
+Person.h
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/Person.h
+
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/Person.h
+string
+-
+exception
+-
+
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/Student.cpp
+Student.h
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/Student.h
+
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/Student.h
+Person.h
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/Person.h
+
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/main.cpp
+iostream
+-
+stack
+-
+queue
+-
+deque
+-
+vector
+-
+Person.h
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/Person.h
+Student.h
+C:/Users/nickl/CLionProjects/FinalPracticeCs2/Student.h
+
